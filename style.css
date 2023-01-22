@@ -1,0 +1,9 @@
+#range_render{
+    max-width: 100px;
+    display: flex;
+    flex-direction: column;     
+}
+.flex{
+    display: flex;
+    
+}

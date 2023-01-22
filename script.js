@@ -88,7 +88,6 @@ function create_range(json){
 }
 
 function Ulozit(){
-
     var val = 0;
     $("input").each(function(){
         val = val + parseInt(this.value);
